@@ -3,10 +3,10 @@ README with my npm packages
 
 ## List
 
- Name | Version |
- -----| ------- |
+Donwloads | Version | Name |
+--------- | ------- | -----|
 {{#packages}}
-[{{name}}]({{&links.npm}}) | {{version}}
+{{downloads}} | {{version}} | [{{name}}]({{&links.npm}})
 {{/packages}}
 
 ## Installation
@@ -25,7 +25,7 @@ npm install tiagodanin --save
 ## Dependencies
 
 - [mustache](https://ghub.io/mustache): Logic-less {{mustache}} templates with JavaScript
-- [npm-user-packages](https://ghub.io/npm-user-packages): Get packages by a npm user
+- [npm-user-packages-downloads](https://ghub.io/npm-user-packages-downloads): Get npm packages per author with download counts
 
 ## License
 
