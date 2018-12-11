@@ -1,0 +1,33 @@
+{
+  "name": "tiagodanin",
+  "main": "index.js",
+  "version": "1.0.0",
+  "description": "README with my npm packages",
+  "author": {
+    "name": "Tiago Danin",
+    "email": "TiagoDanin@outlook.com",
+    "url": "https://TiagoDanin.github.io"
+  },
+  "license": "MIT",
+  "keywords": [
+    "readme",
+    "awesome-list"
+  ],
+  "scripts": {},
+  "private": false,
+  "github": {
+    "name": "TiagoDanin-Packages",
+    "owner": "TiagoDanin"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js",
+    "package.json"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "mustache": "2.3.2",
+    "npm-user-packages": "3.0.0"
+  }
+}
