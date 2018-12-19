@@ -1,7 +1,7 @@
 {
   "name": "tiagodanin",
   "main": "index.js",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "README with my npm packages",
   "author": {
     "name": "Tiago Danin",
@@ -15,6 +15,9 @@
   ],
   "scripts": {},
   "private": false,
+  "repository": "https://github.com/TiagoDanin/TiagoDanin-Packages.git",
+  "homepage": "https://TiagoDanin.github.io/TiagoDanin-Packages",
+  "bugs": "https://github.com/TiagoDanin/TiagoDanin-Packages/issues",
   "github": {
     "name": "TiagoDanin-Packages",
     "owner": "TiagoDanin"
