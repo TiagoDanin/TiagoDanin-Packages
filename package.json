@@ -13,7 +13,10 @@
     "readme",
     "awesome-list"
   ],
-  "scripts": {},
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
   "private": false,
   "repository": "https://github.com/TiagoDanin/TiagoDanin-Packages.git",
   "homepage": "https://TiagoDanin.github.io/TiagoDanin-Packages",
@@ -31,6 +34,8 @@
   "devDependencies": {},
   "dependencies": {
     "mustache": "3.0.1",
-    "npm-user-packages-downloads": "^1.0.0"
-  }
+    "npm-user-packages-downloads": "^1.0.0",
+    "snyk": "^1.161.1"
+  },
+  "snyk": true
 }
