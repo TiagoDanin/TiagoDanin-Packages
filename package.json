@@ -35,7 +35,7 @@
 	"dependencies": {
 		"mustache": "3.0.1",
 		"npm-user-packages-downloads": "^1.0.0",
-		"snyk": "^1.161.1"
+		"snyk": "^1.174.1"
 	},
 	"snyk": true
 }
