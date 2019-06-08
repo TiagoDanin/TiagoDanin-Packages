@@ -2,7 +2,7 @@
 	"name": "tiagodanin",
 	"main": "index.js",
 	"preferGlobal": false,
-	"version": "1.1.8",
+	"version": "1.1.9",
 	"description": "README with my npm packages",
 	"author": {
 		"email": "TiagoDanin@outlook.com",
@@ -38,9 +38,9 @@
 		"package.json"
 	],
 	"dependencies": {
+		"check-npm-dependents": "^1.1.0",
 		"mustache": "3.0.1",
-		"npm-user-packages-downloads": "^1.0.0",
-		"check-npm-dependents": "^1.1.0"
+		"npm-user-packages-downloads": "^1.0.0"
 	},
 	"devDependencies": {
 		"xo": "^0.24.0"
