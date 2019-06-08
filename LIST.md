@@ -1,9 +1,3 @@
-# TiagoDanin Packages
-
-[![Travis](https://img.shields.io/travis/TiagoDanin/TiagoDanin-Packages.svg?branch=master&style=flat-square)](https://travis-ci.org/TiagoDanin/TiagoDanin-Packages) [![Downloads](https://img.shields.io/npm/dt/tiagodanin.svg?style=flat-square)](https://npmjs.org/package/tiagodanin) [![Version](https://img.shields.io/npm/v/tiagodanin.svg?style=flat-square)](https://npmjs.org/package/tiagodanin) [![XO code style](https://img.shields.io/badge/code%20style-XO-red.svg?style=flat-square)](https://github.com/xojs/xo)
-
-README with my npm packages
-
 ## List
 
 Name | Version | Donwloads | Dependents | Date |
@@ -69,43 +63,3 @@ Name | Version | Donwloads | Dependents | Date |
 [locale-codes](https://www.npmjs.com/package/locale-codes) | 1.0.1 | 62 | 0 | 2019-04-28T22:07:41.009Z |
 [cp-random](https://www.npmjs.com/package/cp-random) | 1.0.0 | 41 | 0 | 2019-04-05T12:45:05.649Z |
 [require-benchmark](https://www.npmjs.com/package/require-benchmark) | 1.0.0 | 20 | 0 | 2019-05-17T15:46:01.644Z |
-
-## Installation
-
-Module available through the [npm registry](https://www.npmjs.com/). It can be installed using the  [`npm`](https://docs.npmjs.com/getting-started/installing-npm-packages-locally) or [`yarn`](https://yarnpkg.com/en/) command line tools.
-
-```sh
-# NPM
-npm install tiagodanin --save
-# Or Using Yarn
-yarn add tiagodanin
-```
-
-## Tests
-
-To run the test suite, first install the dependencies, then run `test`:
-
-```sh
-# NPM
-npm test
-# Or Using Yarn
-yarn test
-```
-
-## Dependencies
-
-- [mustache](https://ghub.io/mustache): Logic-less {{mustache}} templates with JavaScript
-- [npm-user-packages-downloads](https://ghub.io/npm-user-packages-downloads): Get npm packages per author with download counts
-- [check-npm-dependents](https://ghub.io/check-npm-dependents): Checks how many dependents has npm package
-
-## Dev Dependencies
-
-- [xo](https://ghub.io/xo): JavaScript happiness style linter ❤️
-
-## Contributors
-
-Pull requests and stars are always welcome. For bugs and feature requests, please [create an issue](https://github.com/TiagoDanin/TiagoDanin-Packages/issues). [List of all contributors](https://github.com/TiagoDanin/TiagoDanin-Packages/graphs/contributors).
-
-## License
-
-[MIT](LICENSE) © [Tiago Danin](https://TiagoDanin.github.io)
