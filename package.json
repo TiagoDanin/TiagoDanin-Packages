@@ -43,7 +43,7 @@
 		"npm-user-packages-downloads": "^1.0.0"
 	},
 	"devDependencies": {
-		"xo": "^0.25.4"
+		"xo": "^0.26.1"
 	},
 	"xo": {
 		"semicolon": false
